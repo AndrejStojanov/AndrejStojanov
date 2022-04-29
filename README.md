@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrejStojanov
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html,css,jscript,bootstrap,php
+- 🌱 I’m currently learning html,css,jscript,bootstrap,php,mysql
 - 💞️ I’m looking to collaborate on every project
 - 📫 How to reach me andrejstojanov101@gmail.com
 
